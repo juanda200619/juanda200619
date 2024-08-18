@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @juanda200619
+- 👀 I’m interested in software development, particularly in functional programming and backend technologies.
+- 🌱 I’m currently learning Scala, Java, Python, and improving my skills in functional programming.
+- 💞️ I'm single and it's okay. XD
+- 📫 How to reach me: juandamiancuervobuitrago@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I’ve worked in various roles from a restaurant server to a store assistant, and I'm now diving deep into the world of programming!
